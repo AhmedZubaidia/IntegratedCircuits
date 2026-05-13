@@ -1,0 +1,16 @@
+# IDE / editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Electric VLSI / EDA tool caches
+*.bak
+*.bak~
+
+# Misc archives that aren't part of the source design
+*.tmp
